@@ -1,0 +1,180 @@
+.header-rjj {
+    position: relative;
+    height: 100vh;
+}
+.header-eff {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.header-eff--1,
+.header-eff--2,
+.header-eff--3,
+.header-eff--4,
+.header-eff--5,
+.header-eff--6,
+.header-eff--7,
+.header-eff--8,
+.header-eff--9,
+.header-eff--10,
+.header-eff--11,
+.header-eff--12 {
+    position: absolute;
+}
+
+.header-eff--1:before,
+.header-eff--2:before,
+.header-eff--3:before,
+.header-eff--4:before,
+.header-eff--5:before,
+.header-eff--6:before,
+.header-eff--7:before,
+.header-eff--8:before,
+.header-eff--9:before,
+.header-eff--10:before,
+.header-eff--11:before,
+.header-eff--12:before {
+    position: absolute;
+    font-family: 'FontAwesome;
+    font-weight: 300;
+}
+
+.header-eff--1 {
+    top: 0;
+    left: 22%;
+}
+
+.header-eff--1:before {
+    content: '\f067';
+    color: #676152;
+    font-size: 59px;
+}
+
+.header-eff--2 {
+    top: 21%;
+    left: 35%;
+}
+
+.header-eff--2:before {
+    content: '\f067';
+    color: #707070;
+    font-size: 22px;
+}
+
+.header-eff--3 {
+    top: 35%;
+    left: 22%;
+}
+
+.header-eff--3:before {
+    content: '\f111';
+    color: #707070;
+    font-size: 45px;
+}
+
+.header-eff--4 {
+    top: 48%;
+    left: 12%;
+}
+
+.header-eff--4:before {
+    content: '\f067';
+    color: #fff;
+    font-size: 22px;
+}
+
+.header-eff--5 {
+    top: 53%;
+    left: 30%;
+}
+
+.header-eff--5:before {
+    content: '\f111';
+    color: #707070;
+    font-size: 30px;
+}
+
+.header-eff--6 {
+    top: 68%;
+    left: 20%;
+}
+
+.header-eff--6:before {
+    content: '\f111';
+    color: #707070;
+    font-size: 26px;
+}
+
+.header-eff--7 {
+    top: 72%;
+    left: 30%;
+}
+
+.header-eff--7:before {
+    content: '\f067';
+    color: #fff;
+    font-size: 50px;
+}
+
+.header-eff--8 {
+    left: 71%;
+    top: 8%;
+}
+
+.header-eff--8:before {
+    content: '\f111';
+    color: #707070;
+    font-size: 18px;
+}
+
+.header-eff--9 {
+    left: 75%;
+    top: 23%;
+}
+
+.header-eff--9:before {
+    content: '\f067';
+    color: #707070;
+    font-size: 60px;
+}
+
+.header-eff--10 {
+    left: 81%;
+    top: 49%;
+}
+
+.header-eff--10:before {
+    content: '\f111';
+    color: #707070;
+    font-size: 40px;
+}
+
+.header-eff--11 {
+    left: 87%;
+    top: 56%;
+}
+
+.header-eff--11:before {
+    content: '\f067';
+    color: #fff;
+    font-size: 26px;
+}
+
+.header-eff--12 {
+    left: 84%;
+    top: 67%;
+}
+
+.header-eff--12:before {
+    content: '\f111';
+    color: #707070;
+    font-size: 70px;
+}
+
+
+
+
+
